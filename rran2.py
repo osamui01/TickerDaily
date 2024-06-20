@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Keys = 'CC080TMHE8UX4NMX', '7UE784WXAQFPGQAQ'
-API_KEY = 'CC080TMHE8UX4NMX'
+API_KEY = '7UE784WXAQFPGQAQ'
 ticker = 'TSCO.LON'
 
 def fetch_price_data(ticker, API_KEY):
