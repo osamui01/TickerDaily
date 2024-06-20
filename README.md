@@ -1,5 +1,7 @@
 # Daily Ticker Script
 
+This Ticker Tracker was developed by Deloitte Ops Academy - Group 1
+
 This repository contains a Python script that provides daily ticker information. There are three versions of the script, but users are advised to use the `rran3.py` version.
 
 ## Getting Started
